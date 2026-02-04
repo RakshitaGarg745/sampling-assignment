@@ -63,7 +63,7 @@ The following five machine learning models were trained on each sample:
 ## Experimental Results
 
 Accuracy values are shown below (in percentage):
-``` bash
+
 
 | Model / Sampling | Simple Random | Systematic | Stratified | Bootstrap | Cross Validation |
 |------------------|--------------|------------|------------|-----------|------------------|
@@ -72,11 +72,11 @@ Accuracy values are shown below (in percentage):
 | Logistic Regression | 98.57 | 98.72 | 98.57 | **100.00** | 98.92 |
 | Random Forest | 98.57 | 98.72 | 98.57 | 83.33 | 98.92 |
 | SVM | 98.57 | 98.72 | 98.57 | 33.33 | 98.92 |
-```
+
 
 
 ## Best Sampling Technique for Each Model
-``` bash
+
 | Model | Best Sampling Technique |
 |------|-------------------------|
 | Decision Tree | Cross Validation Sampling |
@@ -84,7 +84,7 @@ Accuracy values are shown below (in percentage):
 | Logistic Regression | Bootstrap Sampling |
 | Random Forest | Cross Validation Sampling |
 | SVM | Cross Validation Sampling |
-```
+
 
 
 ## Overall Best Performance
