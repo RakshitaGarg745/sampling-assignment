@@ -89,7 +89,7 @@ Accuracy values are shown below (in percentage):
 ## Overall Best Performance
 - **Best Model:** Logistic Regression  
 - **Best Sampling Technique:** Bootstrap Sampling  
-- **Highest Accuracy Achieved:** **90%**
+- **Highest Accuracy Achieved:** **100%**
 
 
 
